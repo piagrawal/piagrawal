@@ -1,31 +1,29 @@
 
 <div align="center">
-  <img
-    src="./assets/github-banner.jpeg"
-    width="100%"
-    alt="Piyush Agrawal - GitHub Profile Banner"
-  />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,45:171B4D,100:00D4FF&height=220&section=header&text=Piyush%20Agrawal&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER%20%7C%20QA%20ENTHUSIAST&descSize=13&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+DevOps;Passionate+About+Software+Quality;Building+Projects+with+AI+Assistance;Learning+Linux+%7C+AWS+%7C+CI%2FCD;Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-# Hi, I'm Piyush Agrawal 👋
-
-### DevOps Engineer | Software Developer | QA Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Exploring+the+World+of+DevOps;Passionate+About+Software+Quality;Building+Projects+with+AI+Assistance;Learning+Linux+%7C+AWS+%7C+CI%2FCD;Turning+Ideas+Into+Reality" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/piagrawal">
-  <img src="https://img.shields.io/badge/GitHub-piagrawal-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-piagrawal-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/piyush-aggrawal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=piagrawal&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=piagrawal&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7B2FF7&height=3&section=header" width="75%" />
 
 </div>
 
@@ -51,42 +49,42 @@ I believe in continuous learning, practical implementation, and turning ideas in
 
 ## 💻 Technical Skills
 
-### Programming Languages
+### 🧑‍💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,aws" />
+<img src="https://skillicons.dev/icons?i=linux,aws" />
 </p>
 
-### Testing & Quality Assurance
+### 🧪 Testing & Quality Assurance
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API_Testing-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API_Testing-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
-### Database Management
+### 🗄️ Database Management
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Version Control
+### 🔗 Version Control
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -192,35 +190,21 @@ A machine learning project focused on predicting stock prices using historical s
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=piagrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piagrawal&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=piagrawal&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/piagrawal">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/piyush-aggrawal/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7B2FF7&height=3&section=footer" width="75%" />
 
 ### 💡 "Build. Automate. Test. Improve. Repeat."
 
