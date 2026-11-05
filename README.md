@@ -1,4 +1,12 @@
+<div align="center">
+  <img
+    src="./assets/github-banner.jpeg"
+    width="100%"
+    alt="Piyush Agrawal - GitHub Profile Banner"
+  />
+</div>
 
+<br/>
 <!--
   GitHub Profile README
   Name: Piyush Agrawal
