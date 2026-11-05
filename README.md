@@ -1,3 +1,4 @@
+
 <div align="center">
   <img
     src="./assets/github-banner.jpeg"
@@ -7,16 +8,6 @@
 </div>
 
 <br/>
-<!--
-  GitHub Profile README
-  Name: Piyush Agrawal
-  GitHub: piagrawal
-
-  CUSTOMIZATION:
-  1. Replace YOUR_LINKEDIN_USERNAME with your LinkedIn username.
-  2. Replace repository placeholders when you upload your projects.
-  3. Add your portfolio and coding profile URLs when available.
--->
 
 <div align="center">
 
@@ -30,9 +21,6 @@
 
 <a href="https://github.com/piagrawal">
   <img src="https://img.shields.io/badge/GitHub-piagrawal-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <br/><br/>
@@ -66,39 +54,39 @@ I believe in continuous learning, practical implementation, and turning ideas in
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,aws" />
+  <img src="https://skillicons.dev/icons?i=linux,aws" />
 </p>
 
 ### Testing & Quality Assurance
 
 <p>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API_Testing-009688?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API_Testing-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ### Database Management
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 ---
@@ -107,7 +95,7 @@ I believe in continuous learning, practical implementation, and turning ideas in
 
 ### 1. YODDHA – Fitness Social Mobile Application
 
-**An independent mobile application project developed with AI assistance.**
+An independent mobile application project developed with AI assistance.
 
 YODDHA is a fitness-focused social application designed for the Indian market. It combines workout tracking and social networking to help fitness enthusiasts connect, share progress, discover workout buddies, and stay motivated.
 
@@ -131,8 +119,6 @@ YODDHA is a fitness-focused social application designed for the Indian market. I
 
 **Project Status:** MVP Completed – Version 1.2
 
-> Repository: Not yet published on GitHub.
-
 ---
 
 ### 2. Military Database Management Web Application
@@ -152,8 +138,6 @@ A database-driven web application developed to manage military-related records t
 - Implemented basic PHP interactions with frontend forms.
 - Worked on backend database connectivity.
 
-**Repository:** `YOUR_MILITARY_PROJECT_REPO`
-
 ---
 
 ### 3. Face Detection Application
@@ -167,10 +151,8 @@ A computer vision application designed to detect human faces in real time using 
 
 **Key Features:**
 - Real-time webcam face detection.
-- Face identification through Haar Cascade.
+- Face detection through Haar Cascade.
 - Live image processing using OpenCV.
-
-**Repository:** `YOUR_FACE_DETECTION_REPO`
 
 ---
 
@@ -196,8 +178,6 @@ A machine learning project focused on predicting stock prices using historical s
 - Machine learning model training.
 - Stock price prediction.
 - Model performance evaluation.
-
-**Repository:** `YOUR_STOCK_PREDICTION_REPO`
 
 ---
 
@@ -233,22 +213,8 @@ A machine learning project focused on predicting stock prices using historical s
 <div align="center">
 
 <a href="https://github.com/piagrawal">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<!-- Add your portfolio when available -->
-<!-- <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a> -->
-
-<!-- Add your coding profiles when available -->
-<!-- <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a> -->
 
 </div>
 
